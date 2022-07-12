@@ -28,7 +28,9 @@ To Use the grabber follow the following steps:
 py main.py
 ```
 2. You should be good to go and have the following on your screen:
-![Gen](https://user-images.githubusercontent.com/89333014/178473208-37b537ba-ba76-40ff-922f-187417d665ff.png)
+
+  
+  ![Gen](https://user-images.githubusercontent.com/89333014/178473208-37b537ba-ba76-40ff-922f-187417d665ff.png)
 
 ## Contact
 For any queries and help regarding the gen contact Starlinkboy #0159
