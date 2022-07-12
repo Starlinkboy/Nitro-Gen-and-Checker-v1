@@ -7,7 +7,7 @@ You can install python [here](https://www.python.org).
 1. Clone the repo using git or simply downloading it. If you download it, unzip it and follow step 2.
 To clone using git use 
 ```
-$ git clone https://github.com/Starlinkboy/Nitro-Gen-and-Checker-v1
+git clone https://github.com/Starlinkboy/Nitro-Gen-and-Checker-v1
 
 ```
 2. Locate the file and open it using Command Prompt. Locate the file --> Copy the path --> Open Command Prompt and type the following:
