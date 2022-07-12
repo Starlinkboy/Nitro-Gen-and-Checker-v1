@@ -31,6 +31,8 @@ py main.py
 
   
   ![Gen](https://user-images.githubusercontent.com/89333014/178473208-37b537ba-ba76-40ff-922f-187417d665ff.png)
+  
+**Note:  To exit the terminal or stop the nitro process, use Ctrl + C on your keyboard or close the window.**
 
 ## Contact
 For any queries and help regarding the gen contact Starlinkboy #0159
@@ -46,3 +48,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Warning
+**This software was made for educational purposes and I do not take responsibility for anyone using the software illegally.**
