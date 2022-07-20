@@ -10,23 +10,11 @@ To clone using git use
 git clone https://github.com/Starlinkboy/Nitro-Gen-and-Checker-v1
 
 ```
-2. Locate the file and open it using Command Prompt. Locate the file --> Copy the path --> Open Command Prompt and type the following:
-```
-cd <path>
-```
-Make sure to replace <path> with your own file path.
-
-3. Install requirements.txt by using the following:
-```
-py -3 -m pip install -r requirements.txt
-```
+2.Run Setup.bat 
 
 ## Usage
-To Use the grabber follow the following steps:
-1. In the same command prompt window as before type:
-```
-py main.py
-```
+To Use the gen follow the following steps:
+1. The gen automatically starts after running setup.bat. If you want to reopen it, run run.bat.
 2. You should be good to go and have the following on your screen:
 
   
